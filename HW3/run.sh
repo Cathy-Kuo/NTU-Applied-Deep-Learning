@@ -1,0 +1,1 @@
+python3.8 predict.py --input_file "${1}" --output_file "${2}"
