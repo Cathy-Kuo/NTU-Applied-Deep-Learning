@@ -1,0 +1,1 @@
+python3.8 predict.py --context_file "${1}" --test_file "${2}" --output_file "${3}" 
